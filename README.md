@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mydwyn
+- 👀 I’m interested in simp
+- 🌱 I’m currently learning Vue 2, Angular, C#
